@@ -1,23 +1,23 @@
 {
-  "name": "locadora-filme",
+  "name": "2026-1sem-itapevi-ds3n-locadora-filmes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FreireJuliana/locadora-filme.git"
+    "url": "git+https://github.com/Joao-Meyer/2026-1sem-itapevi-ds3n-locadora-filmes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/FreireJuliana/locadora-filme/issues"
+    "url": "https://github.com/Joao-Meyer/2026-1sem-itapevi-ds3n-locadora-filmes/issues"
   },
-  "homepage": "https://github.com/FreireJuliana/locadora-filme#readme",
+  "homepage": "https://github.com/Joao-Meyer/2026-1sem-itapevi-ds3n-locadora-filmes#readme",
   "dependencies": {
     "express": "5.2.1",
     "knex": "3.2.9",
